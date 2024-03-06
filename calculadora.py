@@ -1,4 +1,4 @@
-print("Calculadora")
+print("Bem vindo a Calculadora Python!")
 print(" ")
 
 valor1 = float(input("Digite o primeiro número: "))
@@ -17,6 +17,6 @@ Resultado da Subtração = {subtracao}
 Resultado da Divisão = {divisao}
 Resultado da Multiplicação = {multiplicacao}
 
-Resultado da 2º Divisão = {divisao2}
-Resultado da 2º Multiplicação = {multiplicacao2}
+Resultado da Divisão Inteira = {divisao2}
+Resultado da Multiplicação em Potência = {multiplicacao2}
 ''')
