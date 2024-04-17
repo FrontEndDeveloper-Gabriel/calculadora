@@ -3,7 +3,7 @@
 <h3>COMO FUNCIONA?</h3> <br>
  ● Aparecerá o primeiro campo solicitando que digita o primeiro número; <br>
  ● Após o primeiro, o segundo campo também solicitará o segundo número; <br>
- ● Então assim serão calculados os dois números digitados nas 4 operações aritméticas.
+ ● Então assim serão calculados os dois números digitados nas 4 operações aritméticas. <br>
 
 <strong>
 Obs: na multiplicação e divisão, os números serão calculados em potência e divisão inteira respectivamente.</strong>
