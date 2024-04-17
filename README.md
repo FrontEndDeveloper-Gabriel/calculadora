@@ -5,6 +5,7 @@
  ● Após o primeiro, o segundo campo também solicitará o segundo número; <br>
  ● Então assim serão calculados os dois números digitados nas 4 operações aritméticas. <br>
 
+<br>
 <strong>
 Obs: na multiplicação e divisão, os números serão calculados em potência e divisão inteira respectivamente.</strong>
 
