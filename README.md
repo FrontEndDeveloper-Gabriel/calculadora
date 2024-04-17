@@ -15,5 +15,5 @@ Obs: na multiplicação e divisão, os números serão calculados em potência e
 
 # <h4>Requisitos:
  ● Ter um editor de texto na máquina; <br>
- ● Ter o Visual Studio Code ou o IDLE Python instalado na máquina.</h4>
+ ● Ter o Visual Studio Code ou o IDLE Python instalado na máquina.</h4> <br>
  ● Acessar o <strong><a href="https://colab.research.google.com/">Google Colab</a></strong> e executar em um novo notebook. </h4>
