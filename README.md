@@ -1,6 +1,6 @@
 # CÓDIGO EM PYTHON - CALCULADORA
 
-<h3>COMO FUNCIONA?
+<h3>COMO FUNCIONA? <br>
 º Aparecerá o primeiro campo solicitando que digita o primeiro número; <br>
 º Após o primeiro, o segundo campo também solicitará o segundo número; <br>
 º Então assim serão calculados os dois números digitados nas 4 operações aritméticas.
