@@ -1,13 +1,13 @@
 <h1>CÓDIGO EM PYTHON - CALCULADORA</h1>
 
-<h3>COMO FUNCIONA? <br>
+<h3>COMO FUNCIONA?</h3> <br>
  ● Aparecerá o primeiro campo solicitando que digita o primeiro número; <br>
  ● Após o primeiro, o segundo campo também solicitará o segundo número; <br>
  ● Então assim serão calculados os dois números digitados nas 4 operações aritméticas.
 
 <strong>
 Obs: na multiplicação e divisão, os números serão calculados em potência e divisão inteira respectivamente.</strong>
-</h3>
+
 
 # <h4>Requisitos:
  ● Ter um editor de texto na máquina; <br>
